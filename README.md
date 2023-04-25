@@ -5,7 +5,7 @@ I needed a demo application.  Since then I've added little bits and pieces to ex
 Contains:
 
   * A simple Express `Hello World!` on port 8080
-  * A Dockerfile to deploy with Docker locally or in the cloud
+  * A Dockerfile to deploy with Docker locally or in the cloud.
   * Kubernetes yaml files for creating a service and a load balancer.
 
 # TBD 
