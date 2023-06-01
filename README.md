@@ -1,4 +1,4 @@
 # Simple Express / Node.js hello world app 
-* A simple Express `Hello World!` on port 8080 v1
+* A simple Express `Hello World!` on port 8080 v2
 
 
