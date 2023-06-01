@@ -1,3 +1,3 @@
 # Simple Express / Node.js hello world app 
-* A simple Express `Hello World!` on port 8080 U
+* A simple Express `Hello World!` on port 8080 UP
 
